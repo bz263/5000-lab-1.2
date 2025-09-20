@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "slides/slides.html#demo-slides",
+    "href": "slides/slides.html#demo-slides",
+    "title": "Demo Slides",
+    "section": "Demo Slides",
+    "text": "Demo Slides\nLorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Lorem ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit quisque faucibus ex. Adipiscing elit quisque faucibus ex sapien vitae pellentesque.: (Patashnik 1984)."
+  },
+  {
+    "objectID": "slides/slides.html#overview",
+    "href": "slides/slides.html#overview",
+    "title": "Demo Slides",
+    "section": "Overview",
+    "text": "Overview\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.\nLorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.\nLorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus.\nLorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus."
+  },
+  {
+    "objectID": "slides/slides.html#two-images",
+    "href": "slides/slides.html#two-images",
+    "title": "Demo Slides",
+    "section": "Two Images",
+    "text": "Two Images"
+  },
+  {
+    "objectID": "slides/slides.html#code-test",
+    "href": "slides/slides.html#code-test",
+    "title": "Demo Slides",
+    "section": "Code test",
+    "text": "Code test"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "Demo Slides",
+    "section": "References",
+    "text": "References\nFurther reading: (Patashnik 1988).\n\n\n\n\nPatashnik, Oren. 1984. “BIBTEX 101.” TUGboat 15: 269–73.\n\n\n———. 1988. “Designing BIBTEX Styles.” February."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#headings",
+    "href": "index.html#headings",
+    "title": "simple_quarto_website",
+    "section": "0.1 Headings\n",
+    "text": "0.1 Headings"
+  },
+  {
+    "objectID": "index.html#h2",
+    "href": "index.html#h2",
+    "title": "simple_quarto_website",
+    "section": "1.1 H2",
+    "text": "1.1 H2\n\n1.1.1 H3"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nHere is the footnote.↩︎"
+  }
+]

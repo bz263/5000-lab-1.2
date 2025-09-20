@@ -1,0 +1,75 @@
+---
+title: "simple_quarto_website"
+toc: true
+number-sections: true
+bibliography: reference.bib
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Headings\
+# H1
+## H2
+### H3
+
+# Two-Column Summary
+:::: {.columns}
+::: {.column width="50%"}
+Left column content
+:::
+::: {.column width="50%"}
+Right column content
+:::
+::::
+
+
+# A Markdown Table
+
+| Artifact           | File/Path             | Notes                               |
+|-------------------:|:----------------------|:------------------------------------|
+| Example Image      | `images/ruirui.jpg`   | Final layout example                |
+| Placeholder Plot   | `images/luna.png`     | Surface illustration                |
+| Video Snippet      | `images/mov_bbb.mp4`  | Embedded below（HTML5 video）       |
+
+# Math
+
+Inline-math：$f(x)=\sigma(w^\top x+b)$。
+
+non inline-math：
+
+$$
+\left\lVert \nabla I \right\rVert \;=\;
+\sqrt{\left(\frac{\partial I}{\partial x}\right)^2 +
+      \left(\frac{\partial I}{\partial y}\right)^2}
+$$
+
+# Footnotes
+Here is a footnote reference.[^1]
+
+[^1]: Here is the footnote.
+
+# Quote
+> "To be, or not to be: that is the question"
+
+# Pics & video
+![Luna](./images/luna.png "Title: This is luna"){fig-alt="A drawing of luna."}
+
+![Ruirui](./images/ruirui.jpg "Title: This is ruirui"){fig-alt="A drawing of ruirui."}
+
+{{< video ./images/mov_bbb.mp4 aspect-ratio="4x3">}}
+
+# Mermaid Diagram
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+# Citation
+
+This is a test fro citation. [@patashnik1984bibtex]
